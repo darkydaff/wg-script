@@ -125,4 +125,4 @@ docker rm -f wg-easy
 
 ## 📄 License
 
-See the LICENSE file in the repository root for license information.
+See the [LICENSE](LICENSE.txt) file in the repository root for license information.
